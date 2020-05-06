@@ -6,7 +6,7 @@ Our code challenge for growth engineering applicants. Please fork this repo and 
 
 The project consists of two parts Frontend and Backend
 
-# Frontend
+### Frontend
 
 We would like you to build a web page that displays top 10 leaderboard of facebook profiles which has the maximum number of friends in their friends list.
 
@@ -14,7 +14,7 @@ The user must be prompted to signin with facebook before the user can see the le
 
 Users should have a good user experience on desktop, tablet and mobile devices.
 
-# Backend
+### Backend
 
 We would like you to store the relevant data required for the UI. You can use firebase or any database of your choice to store the data.
 
